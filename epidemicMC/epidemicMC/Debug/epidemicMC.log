@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\john\nextcloud\mcgill\term 5\stat mech\assignments\epidemicmc\epidemicmc\epidemicmc\main.c(10): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\john\nextcloud\mcgill\term 5\stat mech\assignments\epidemicmc\epidemicmc\epidemicmc\main.c(23): warning C4013: 'MC' undefined; assuming extern returning int
+c:\users\john\nextcloud\mcgill\term 5\stat mech\assignments\epidemicmc\epidemicmc\epidemicmc\main.c(23): warning C4047: '=': 'double **' differs in levels of indirection from 'int'
+  epidemicMC.vcxproj -> C:\Users\John\Nextcloud\McGill\Term 5\Stat Mech\Assignments\epidemicMC\epidemicMC\Debug\epidemicMC.exe
